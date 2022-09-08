@@ -55,6 +55,7 @@ export const portfolioData = [
     info: "info30",
     // info: "CV in react; written in JS and React Framework; SCSS and SASS",
     picture: "./media/project3-joao-ferrao-unsplash.jpg",
+    webSite: "https://benichou-mordehai-cv-react.onrender.com",
   },
   {
     id: 40,
@@ -70,6 +71,7 @@ export const portfolioData = [
     info: "info40",
     // info: "Flag of the world; written in JS and React Framework; SCSS and SASS; dealing with an API to bring the data",
     picture: "./media/project4-sebastiano-piazzi-unsplash.jpg",
+    webSie: "https://flag-of-the-world.onrender.com",
   },
   {
     id: 50,
@@ -85,6 +87,7 @@ export const portfolioData = [
     info: "info50",
     // info: "Alibaba shop; written in JS and React Framework; CSS ; shop with all functionalities of shop ",
     picture: "./media/project5-mike-petrucci-unsplash.jpg",
+    webSite: "https://alibaba-shop.onrender.com",
   },
   {
     id: 60,
