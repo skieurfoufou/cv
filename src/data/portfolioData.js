@@ -71,7 +71,7 @@ export const portfolioData = [
     info: "info40",
     // info: "Flag of the world; written in JS and React Framework; SCSS and SASS; dealing with an API to bring the data",
     picture: "./media/project4-sebastiano-piazzi-unsplash.jpg",
-    webSie: "https://flag-of-the-world.onrender.com",
+    webSite: "https://flag-of-the-world.onrender.com",
   },
   {
     id: 50,
