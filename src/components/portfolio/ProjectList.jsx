@@ -9,6 +9,7 @@ const radios = [
   { id: 41, value: "react" },
   { id: 51, value: "node JS" },
   { id: 61, value: "mongo DB" },
+  { id: 71, value: "vue" },
 ];
 function ProjectList() {
   const [selectedRadio, setSelectedRadio] = useState("javascript");

@@ -91,11 +91,13 @@ export const portfolioData = [
   },
   {
     id: 60,
-    name: "test.test",
-    languages: ["javascript", "react", "css"],
-    languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
-    source: "http://www.github.com",
+    name: "Fruit-Store.com",
+    languages: ["html-css", "javascript", "vue"],
+    languagesIcons: ["fab fa-html5", "fab fa-css3-alt", "fab fa-js"],
+    otherIcons: ["vue"],
+    source: "https://github.com/skieurfoufou/vue-fruit-store",
     info: "info60",
-    picture: "./media/project6.JPG",
+    picture: "./media/project6-oren-elbaz-unsplash.jpg",
+    webSite: "https://vue-fruit-store.onrender.com",
   },
 ];
