@@ -100,4 +100,15 @@ export const portfolioData = [
     picture: "./media/project6-oren-elbaz-unsplash.jpg",
     webSite: "https://vue-fruit-store.onrender.com",
   },
+  {
+    id: 70,
+    name: "Election-online.com",
+    languages: ["html-css", "javascript", "vue", "firebase"],
+    languagesIcons: ["fab fa-html5", "fab fa-css3-alt", "fab fa-js"],
+    otherIcons: ["vue", "firebase"],
+    source: "https://github.com/skieurfoufou/vue-fruit-store",
+    info: "info70",
+    picture: "./media/project7.jfif",
+    webSite: "https://election-online.onrender.com",
+  },
 ];

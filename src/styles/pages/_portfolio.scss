@@ -89,7 +89,7 @@
       margin: 0.5rem 0 0 0;
       text-align: center;
       width: 32%;
-      max-height: 50%;
+      max-height: 33%;
       padding: 0.3rem;
       box-shadow: $shadow;
       display: grid;
@@ -123,7 +123,7 @@
         justify-content: center;
         color: $white;
       }
-      &:hover {
+      h3:hover {
         color: #333;
       }
     }
@@ -163,7 +163,7 @@
       .infosContent {
         position: relative;
         top: 25%;
-        width: 600px;
+        max-width: 600px;
         margin: 0 auto;
         color: $color-5;
         background: $color-1;
@@ -222,7 +222,7 @@
       }
     }
     .infosContent {
-      width: 100% !important;
+      width: 100%;
     }
   }
 }
@@ -239,6 +239,14 @@
 
       img {
         height: 100% !important;
+      }
+    }
+
+    .infosContent {
+      width: 80%;
+      .head {
+        display: flex;
+        flex-direction: column;
       }
     }
   }

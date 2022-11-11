@@ -16,8 +16,13 @@ function ProgressBar({ languages, className, title }) {
       <div>
         {languages.map((language) => {
           let xpYears = 1.5;
-          let progressBar = (language.xp / xpYears) * 100 + "%";
-
+          // let progressBar = (language.xp / xpYears) * 100 + "%";
+          let dateNow = Date.now();
+          let YearsOfXp = (
+            (dateNow - language.xp) /
+            (1000 * 60 * 60 * 24 * 365)
+          ).toFixed(2);
+          let progressBar = (YearsOfXp / xpYears) * 100 + "%";
           return (
             <div key={language.id} className="languagesList">
               <li>{language.value}</li>
