@@ -32,6 +32,9 @@ function OtherSkills() {
           <li className="fas fa-check-square">
             <span> Mongo DB</span>
           </li>
+          <li className="fas fa-check-square">
+            <span> Firebase</span>
+          </li>
         </ul>
       </div>
     </div>
