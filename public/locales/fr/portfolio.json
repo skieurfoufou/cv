@@ -3,7 +3,7 @@
   "return-to-projects-page": "Retour a la Page des Projects",
   "info10": "Project de recettes de cuisine; écrit en JS et le Framework React; Le serveur est en Node JS avec implementation de JWT; La base de donnees est une No-SQL : Mongo DB, application entierement reactive",
   "info20": "Project de listes de courses; écrit en JS et le Framework React; Le serveur est en Node JS; La base de donnees est une No-SQL : Mongo DB, application portable",
-  "info30": "Project de CV en React; écrit en JS et le Framework React; SCSS et SASS, application entierement reactive",
+  "info30": "Project de CV en React; écrit en JS et le Framework React; SCSS et SASS, traduction en 3 langues avec E18; application entierement reactive",
   "info40": "Les drapeaux du monde; écrit en JS et le Framework React; SCSS et SASS; Traite avec une API pour charger les données, application bureau",
   "info50": "Magasin Alibaba ; écrit en JS et le Framework React; CSS ; Magasin avec toutes les fonctionalitees requises, application bureau",
   "info60": "Magasin de Fruit et Légumes ; écrit en JS et le Framework Vue, utilisation du store Vuex; CSS ; Magasin avec toutes les fonctionalitées requises, application bureau",
