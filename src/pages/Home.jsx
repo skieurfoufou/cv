@@ -14,7 +14,7 @@ function Home() {
           <h2>{t("developer fullStack")}</h2>
           <div className="pdf">
             <a href="./media/CV.pdf" target="_blank">
-              {t("upload cv")}
+              {t("download cv")}
             </a>
           </div>
         </div>
