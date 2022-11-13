@@ -106,7 +106,7 @@ export const portfolioData = [
     languages: ["html-css", "javascript", "vue", "firebase"],
     languagesIcons: ["fab fa-html5", "fab fa-css3-alt", "fab fa-js"],
     otherIcons: ["vue", "firebase"],
-    source: "https://github.com/skieurfoufou/vue-fruit-store",
+    source: "https://github.com/skieurfoufou/election-project",
     info: "info70",
     picture: "./media/project7.jfif",
     webSite: "https://election-online.onrender.com",
